@@ -1,4 +1,4 @@
-.Rproj
+*.Rproj
 .Rproj.user/
-.csv
-.rds
+*.csv
+*.rds
